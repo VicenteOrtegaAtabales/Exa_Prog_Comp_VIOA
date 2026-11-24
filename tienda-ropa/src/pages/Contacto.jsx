@@ -1,5 +1,7 @@
 import { useState } from "react";
 import SimpleReactValidator from "simple-react-validator";
+import { collection, addDoc } from "firebase/firestore";
+import { db } from "../firebase/firebaseConfig";
 
 function Contacto() {
     
@@ -12,7 +14,7 @@ function Contacto() {
 
     const validator = new SimpleReactValidator();
 
-    const enviarFormulario = (event) => {
+    const enviarFormulario = async (event) => {
         event.preventDefault();
 
         const nuevosErrores = {};
@@ -35,12 +37,32 @@ function Contacto() {
         setErrores(nuevosErrores);
 
         if (Object.keys(nuevosErrores).length === 0) {
-            console.log({
-                nombre,
-                correo,
-                telefono,
-                mensaje
-            });
+
+            try {
+                await addDoc(
+                    collection(db, "contactos"),
+                    {
+                        nombre,
+                        correo,
+                        telefono,
+                        mensaje,
+                        fecha: new Date()
+                    }
+                );
+
+                alert("Formulario enviado correctamente")
+
+                setNombre("");
+                setCorreo("");
+                setTelefono("");
+                setMensaje("");
+                setErrores("");
+                
+            } catch (error) {
+                console.error(
+                    "Error al guardar:", error
+                );
+            }
         }
 
     };
