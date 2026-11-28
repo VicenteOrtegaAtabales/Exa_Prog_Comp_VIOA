@@ -1,0 +1,4 @@
+#Sat Nov 28 03:04:36 GMT-03:00 2026
+base.0=D\:\\INGENIERIA EN INFORMATICA\\2do Año\\9no Bimestre\\Programación de Componentes\\Examen\\Exa_Prog_Comp_VIOA\\tiendaRopaAPK\\platforms\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

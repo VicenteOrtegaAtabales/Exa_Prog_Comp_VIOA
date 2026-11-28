@@ -1,0 +1,29 @@
+org.apache.cordova.hellocordova.app-jetified-appcompat-resources-1.7.1-0 C:\Users\thesh\.gradle\caches\8.14.2\transforms\00d37e16a7090181fd678ed370622373\transformed\jetified-appcompat-resources-1.7.1\res
+org.apache.cordova.hellocordova.app-jetified-core-splashscreen-1.0.1-1 C:\Users\thesh\.gradle\caches\8.14.2\transforms\258288f8b714c91e3aa283bb84515572\transformed\jetified-core-splashscreen-1.0.1\res
+org.apache.cordova.hellocordova.app-lifecycle-livedata-core-2.6.2-2 C:\Users\thesh\.gradle\caches\8.14.2\transforms\280b984778dcaa0bd477ed34d13b76e9\transformed\lifecycle-livedata-core-2.6.2\res
+org.apache.cordova.hellocordova.app-jetified-lifecycle-process-2.6.2-3 C:\Users\thesh\.gradle\caches\8.14.2\transforms\2e4a73ceefb0217866584c45bf10fcce\transformed\jetified-lifecycle-process-2.6.2\res
+org.apache.cordova.hellocordova.app-jetified-startup-runtime-1.1.1-4 C:\Users\thesh\.gradle\caches\8.14.2\transforms\31404763a91218be053edde7199e378f\transformed\jetified-startup-runtime-1.1.1\res
+org.apache.cordova.hellocordova.app-lifecycle-livedata-2.6.2-5 C:\Users\thesh\.gradle\caches\8.14.2\transforms\45e587b3c354aeefeb451d4f1c96a43b\transformed\lifecycle-livedata-2.6.2\res
+org.apache.cordova.hellocordova.app-lifecycle-viewmodel-2.6.2-6 C:\Users\thesh\.gradle\caches\8.14.2\transforms\4edb3db67b3718bed18c8b89c5960492\transformed\lifecycle-viewmodel-2.6.2\res
+org.apache.cordova.hellocordova.app-jetified-profileinstaller-1.3.1-7 C:\Users\thesh\.gradle\caches\8.14.2\transforms\56c8f165c037ac3ee6d9044fdcca2c23\transformed\jetified-profileinstaller-1.3.1\res
+org.apache.cordova.hellocordova.app-lifecycle-runtime-2.6.2-8 C:\Users\thesh\.gradle\caches\8.14.2\transforms\5a8c9e9c9656ff23b62158cb3cfb185e\transformed\lifecycle-runtime-2.6.2\res
+org.apache.cordova.hellocordova.app-core-1.13.0-9 C:\Users\thesh\.gradle\caches\8.14.2\transforms\84125ea8e82d8d8d49fc1d7c0c5d3ca4\transformed\core-1.13.0\res
+org.apache.cordova.hellocordova.app-jetified-emoji2-views-helper-1.3.0-10 C:\Users\thesh\.gradle\caches\8.14.2\transforms\89413ec42032267343ff6a2f1e8004db\transformed\jetified-emoji2-views-helper-1.3.0\res
+org.apache.cordova.hellocordova.app-fragment-1.5.4-11 C:\Users\thesh\.gradle\caches\8.14.2\transforms\9439b0615dd31ea18f0fb9749106c097\transformed\fragment-1.5.4\res
+org.apache.cordova.hellocordova.app-appcompat-1.7.1-12 C:\Users\thesh\.gradle\caches\8.14.2\transforms\9a24a8130b927ab230154dd470dda77b\transformed\appcompat-1.7.1\res
+org.apache.cordova.hellocordova.app-jetified-emoji2-1.3.0-13 C:\Users\thesh\.gradle\caches\8.14.2\transforms\b420edf6e2140d4a7ca055f46915f50e\transformed\jetified-emoji2-1.3.0\res
+org.apache.cordova.hellocordova.app-jetified-annotation-experimental-1.4.1-14 C:\Users\thesh\.gradle\caches\8.14.2\transforms\baf5e715a8cf33a9a46ce1f157848a96\transformed\jetified-annotation-experimental-1.4.1\res
+org.apache.cordova.hellocordova.app-webkit-1.14.0-15 C:\Users\thesh\.gradle\caches\8.14.2\transforms\c443543a6d7b29f6d45e83dedfc8e4f1\transformed\webkit-1.14.0\res
+org.apache.cordova.hellocordova.app-core-runtime-2.2.0-16 C:\Users\thesh\.gradle\caches\8.14.2\transforms\d03cfc690df16d78a325ee34e624019e\transformed\core-runtime-2.2.0\res
+org.apache.cordova.hellocordova.app-jetified-core-ktx-1.13.0-17 C:\Users\thesh\.gradle\caches\8.14.2\transforms\d9c4f65766d1c27d26593a792d24c95b\transformed\jetified-core-ktx-1.13.0\res
+org.apache.cordova.hellocordova.app-jetified-activity-1.8.0-18 C:\Users\thesh\.gradle\caches\8.14.2\transforms\def882eb848974ee0aa710e98c7fb6e5\transformed\jetified-activity-1.8.0\res
+org.apache.cordova.hellocordova.app-jetified-savedstate-1.2.1-19 C:\Users\thesh\.gradle\caches\8.14.2\transforms\e611fc7101d0f2089bfd3aa164114f1d\transformed\jetified-savedstate-1.2.1\res
+org.apache.cordova.hellocordova.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-20 C:\Users\thesh\.gradle\caches\8.14.2\transforms\edfb651c6c9db7d081e917158157c5f7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+org.apache.cordova.hellocordova.app-release-21 D:\INGENIERIA EN INFORMATICA\2do Año\9no Bimestre\Programación de Componentes\Examen\Exa_Prog_Comp_VIOA\tiendaRopaAPK\platforms\android\CordovaLib\build\intermediates\packaged_res\release\packageReleaseResources
+org.apache.cordova.hellocordova.app-pngs-22 D:\INGENIERIA EN INFORMATICA\2do Año\9no Bimestre\Programación de Componentes\Examen\Exa_Prog_Comp_VIOA\tiendaRopaAPK\platforms\android\app\build\generated\res\pngs\release
+org.apache.cordova.hellocordova.app-resValues-23 D:\INGENIERIA EN INFORMATICA\2do Año\9no Bimestre\Programación de Componentes\Examen\Exa_Prog_Comp_VIOA\tiendaRopaAPK\platforms\android\app\build\generated\res\resValues\release
+org.apache.cordova.hellocordova.app-packageReleaseResources-24 D:\INGENIERIA EN INFORMATICA\2do Año\9no Bimestre\Programación de Componentes\Examen\Exa_Prog_Comp_VIOA\tiendaRopaAPK\platforms\android\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+org.apache.cordova.hellocordova.app-packageReleaseResources-25 D:\INGENIERIA EN INFORMATICA\2do Año\9no Bimestre\Programación de Componentes\Examen\Exa_Prog_Comp_VIOA\tiendaRopaAPK\platforms\android\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+org.apache.cordova.hellocordova.app-release-26 D:\INGENIERIA EN INFORMATICA\2do Año\9no Bimestre\Programación de Componentes\Examen\Exa_Prog_Comp_VIOA\tiendaRopaAPK\platforms\android\app\build\intermediates\merged_res\release\mergeReleaseResources
+org.apache.cordova.hellocordova.app-main-27 D:\INGENIERIA EN INFORMATICA\2do Año\9no Bimestre\Programación de Componentes\Examen\Exa_Prog_Comp_VIOA\tiendaRopaAPK\platforms\android\app\src\main\res
+org.apache.cordova.hellocordova.app-release-28 D:\INGENIERIA EN INFORMATICA\2do Año\9no Bimestre\Programación de Componentes\Examen\Exa_Prog_Comp_VIOA\tiendaRopaAPK\platforms\android\app\src\release\res

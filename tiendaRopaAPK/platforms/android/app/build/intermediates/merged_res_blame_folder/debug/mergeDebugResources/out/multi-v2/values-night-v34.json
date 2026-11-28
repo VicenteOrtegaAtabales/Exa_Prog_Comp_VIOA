@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.apache.cordova.hellocordova.app-mergeDebugResources-24:/values-night-v34/values-night-v34.xml",
+            "map": [
+                {
+                    "source": "D:\\INGENIERIA EN INFORMATICA\\2do Año\\9no Bimestre\\Programación de Componentes\\Examen\\Exa_Prog_Comp_VIOA\\tiendaRopaAPK\\platforms\\android\\app\\src\\main\\res\\values-night-v34\\cdv_colors.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "831,916",
+                        "endColumns": "84,81",
+                        "endOffsets": "911,993"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,140",
+                        "endColumns": "84,81",
+                        "endOffsets": "135,217"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,10 +1,17 @@
-
-cat >> .gitignore << 'EOF'
-
+# Dependencias
 node_modules/
-platforms/
-plugins/
+
+# Compilación de la app web
+dist/
+
+# Firma y configuración local
+release-signing.properties
+local.properties
+build.json
 *.keystore
 *.jks
-build.json
-EOF
+
+# Variables de entorno y registros
+.env
+.env.*
+*.log
