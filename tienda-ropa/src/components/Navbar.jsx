@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-function Navbar() {
+function Navbar({ carrito }) {
     return (
         <nav>
             <Link to="/">Home</Link>
@@ -14,6 +14,8 @@ function Navbar() {
             <Link to="/login">Login</Link>
             {" | "}
             <Link to="/contacto">Contacto</Link>
+            {" | "}
+            <Link to="/carrito">Carrito ({carrito.length})</Link>
         </nav>
     );
 }
